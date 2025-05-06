@@ -1,0 +1,45 @@
+{
+  "vendors": {
+    "acme": {
+      "payment_terms": "net 30 days",
+      "contact": "accounts@acme.com"
+    },
+    "globex": {
+      "payment_terms": "due upon receipt",
+      "contact": "billing@globex.com"
+    },
+    "initech": {
+      "payment_terms": "net 15 days",
+      "contact": "finance@initech.com"
+    },
+    "umbrella": {
+      "payment_terms": "net 60 days",
+      "contact": "invoices@umbrella-corp.com"
+    },
+    "wayne enterprises": {
+      "payment_terms": "monthly invoicing, due in 10 days",
+      "contact": "accounts@wayneenterprises.com"
+    },
+    "stark industries": {
+      "payment_terms": "advance payment required",
+      "contact": "finance@starkindustries.com"
+    },
+    "wonka ltd": {
+      "payment_terms": "net 45 days",
+      "contact": "billing@wonka.com"
+    },
+    "hooli": {
+      "payment_terms": "due upon delivery",
+      "contact": "finance@hooli.com"
+    },
+    "bluth company": {
+      "payment_terms": "net 20 days",
+      "contact": "invoices@bluthcompany.com"
+    },
+    "soylent corp": {
+      "payment_terms": "net 30 days",
+      "contact": "payables@soylentcorp.com"
+    }
+  }
+}
+
